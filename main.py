@@ -1,3 +1,3 @@
 import player
 
-player.video_Player('C:\\Users\\sagef\\Videos\\sicko.mp4')
+player.video_Player('sicko.mp4')
